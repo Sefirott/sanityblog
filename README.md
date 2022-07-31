@@ -2,7 +2,7 @@
 
 My personal blog! Created with NextJS 
 
-Front-End is built with tailwindcss and Back-End belongs to Sanity CMS.
+Front-End built with tailwindcss and Back-End belongs to Sanity CMS.
 
 See on the cloud here:
 
